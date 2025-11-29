@@ -7,7 +7,7 @@
 
 # AKGR: Awesome Knowledge Graph Reasoning
 
-AKGR is a collection of knowledge graph reasoning works, including papers, codes and datasets :fire:. Any problems, please contact liangke200694@126.com or liangke200694@gmail.com. Any other interesting papers or codes are welcome. If you find this repository useful to your research or work, it is really appreciated to star this repository.:heart:
+AKGR is a collection of knowledge graph reasoning works, including papers, codes and datasets :fire:. Any problems, please contact liangke200694@126.com or liangke200694@gmail.com. Any other interesting papers or codes are welcome. If you find this repository useful to your research or work, it is really appreciated to star this repository. :heart:
 
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
@@ -1279,6 +1279,7 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
 - KG-Tutorials [code](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers)
 
 [Back](#bookmarks-)
+
 
 
 
